@@ -1,4 +1,4 @@
-name: CI
+name: kubernetes-images-action
 on:
   release:
     types: [published]
